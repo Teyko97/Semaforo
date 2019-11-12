@@ -1,0 +1,2 @@
+# Semaforo
+Un semaforo
